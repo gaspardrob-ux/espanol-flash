@@ -1,0 +1,4 @@
+ESPANOL FLASH v2
+Sur GitHub, remplacer les fichiers index.html et sw.js à la racine du dépôt.
+Sauvegarder les données via l'app avant.
+Importer les listes via Données > Ajouter des listes, pas via le bouton Restaurer.
